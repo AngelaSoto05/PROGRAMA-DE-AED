@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": ".",
       "program": "build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/pc/Documents/cursos/AED/PROGRAMMING 1",
+      "program": "c:/Users/pc/Documents/cursos/AED/PROGRAMMING 1/build/Debug/outDebug",
+>>>>>>> ee301c988cbaba14b14602f253f296b676c939f0
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
