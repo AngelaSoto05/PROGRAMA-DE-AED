@@ -1,4 +1,8 @@
 #include <stdio.h>
+<<<<<<< HEAD
+=======
+// ejemplo
+>>>>>>> f93d127 (n)
 int main() {
     int n;
 
